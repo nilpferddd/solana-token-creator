@@ -38,4 +38,4 @@
 - [x] Dokumentation erstellen
   - [x] Technische Dokumentation schreiben
   - [x] Benutzeranleitung verfassen
-- [ ] Finale Anwendung an Benutzer übergeben
+- [x] Finale Anwendung an Benutzer übergeben
